@@ -1,0 +1,78 @@
+{
+	"suspended_final_alpha": 0,
+	"text_color": "#ffffff",
+	"menu_bg_color": "#00000050",
+	"menu_focus_color": "#6ba4e7",
+	"menu_folder_text_y": 4242,
+
+	"main_menu": {
+		"banner_name_text": {
+			"x": 25
+		},
+		"banner_author_text": {
+			"x": 25
+		},
+		"banner_version_text": {
+			"x": 25
+		},
+		"items_menu": {
+			"y": 190
+		},
+		"logo_icon": {
+			"x": 4242,
+			"y": 4242
+		},
+		"firmware_text": {
+			"visible": false
+		},
+		"user_icon": {
+			"visible": false
+		},
+		"controller_icon": {
+			"visible": false
+		},
+		"web_icon": {
+			"visible": false
+		},
+		"themes_icon": {
+			"visible": false
+		},
+		"settings_icon": {
+			"visible": false
+		},
+		"menu_toggle_button": {
+			"visible": false
+		},
+		"connection_icon": {
+			"x": 1040,
+			"y": 5
+		},
+		"battery_icon": {
+			"x": 1080,
+			"y": 16
+		},
+		"battery_text": {
+			"x": 1110,
+			"y": 15
+		},
+		"time_text": {
+			"x": 1195,
+			"y": 15
+		}
+	},
+	
+	"themes_menu": {
+		"current_theme_name_text": {
+			"x": 135
+		},
+		"current_theme_author_text": {
+			"x": 135
+		},
+		"current_theme_version_text": {
+			"x": 135
+		},
+		"current_theme_icon": {
+			"x": 25
+		}
+	}
+}
